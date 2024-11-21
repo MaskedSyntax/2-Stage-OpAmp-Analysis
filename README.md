@@ -11,6 +11,10 @@ This repository contains a Streamlit web application that estimates the aspect r
 - **Multiple Models**: Provides predictions using different regression models including Linear Regression, Gaussian Process Regression, SVR, Decision Tree, KNN, Random Forest, and a Neural Network.
 - **Visualization**: Displays predictions and aspect ratios for the selected model.
 
+## Screenshots
+<img src="screenshots/2.png" alt="drawing" width="200"/>&emsp; &emsp;
+<img src="screenshots/4.png" alt="drawing" width="200"/>&emsp; &emsp;
+
 ## Getting Started
 
 ### Prerequisites
