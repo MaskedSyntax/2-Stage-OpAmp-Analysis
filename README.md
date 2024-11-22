@@ -12,8 +12,8 @@ This repository contains a Streamlit web application that estimates the aspect r
 - **Visualization**: Displays predictions and aspect ratios for the selected model.
 
 ## Screenshots
-<img src="screenshots/2.png" alt="drawing" width="200"/>&emsp; &emsp;
-<img src="screenshots/4.png" alt="drawing" width="200"/>&emsp; &emsp;
+<img src="screenshots/5.png" alt="drawing" width="200"/>&emsp; &emsp;
+<img src="screenshots/6.png" alt="drawing" width="200"/>&emsp; &emsp;
 
 ## Getting Started
 
